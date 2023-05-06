@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "dgSpecHash": "v3oychum5dss2MJ6D0c0y8L6bqC1WOkj9dczpkROtlBQO4gBVuLqgusBzvRe4v4Fwu0TbnGoSCFJR/2m7YHSIg==",
-  "success": true,
-  "projectFilePath": "C:\\source\\AzureDevops\\BuildYourCICDPipelineAzureDevOps\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}
